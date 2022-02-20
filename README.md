@@ -24,3 +24,32 @@ This toy is composed of four parts:
 
 ## Complete step-by-step building instructions
 
+
+---
+
+# WIP
+
+### Next steps
+
+1. Test DFPlayer Pro with speaker
+2. Test file playing and whether we can try/catch unknown files
+3. Test push-button logic with hardware debounce
+4. Solder logic level board
+5. Order 1 white led, build small cardboard structure for proximity level and color sensors
+6. Test Proximity level, find good interrupt threshold
+7. Test color sensor, test color stickers, develop color proximity algorithm
+8. Build on top of color proximity algorithm for letter identification
+9. Flesh out word-to-speaker code
+10. Order another color/proximity sensors
+11. Solder and test I2C multiplexer
+12. Order other color/proximity sensors + white leds + logic level converter if needed
+13. Build complete prototype on breadboard
+14. Add battery to prototype and test prototype without USB connection
+15. Design box
+16. PCB Routing with Raph
+17. Order PCB, optionally order parts and solder everything (if not included in PCB)
+18. Build box, including PCB
+19. ...
+20. Profit :)
+
+
